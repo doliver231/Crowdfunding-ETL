@@ -16,5 +16,5 @@ Independent Funding has been growing, so now it needs to move all their accessib
 
 ## Resources
 
-* Data Source: (crowdfunding.xlsx)[https://github.com/doliver231/Crowdfunding-ETL/blob/main/crowdfunding.xlsx], (backer_info.csv)[https://github.com/doliver231/Crowdfunding-ETL/blob/main/backer_info.csv]
+* Data Source: [crowdfunding.xlsx](https://github.com/doliver231/Crowdfunding-ETL/blob/main/crowdfunding.xlsx), [backer_info.csv](https://github.com/doliver231/Crowdfunding-ETL/blob/main/backer_info.csv)
 
