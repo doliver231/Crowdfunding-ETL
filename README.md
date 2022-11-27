@@ -50,6 +50,8 @@ Using knowledge of Python, Pandas, and data cleaning strategies, the data needs 
 
 ![Deliverable 2](https://github.com/doliver231/Crowdfunding-ETL/blob/main/Images/Deliverable2_backersDF_usingRegex.png)
 
+To see the Python coding used in Jupyter Notebook for Deliverables 1 & 2: [Extract-Transform_final_code.ipynb](https://github.com/doliver231/Crowdfunding-ETL/blob/main/Extract-Transform_final_code.ipynb)
+
 ### Deliverable 3 : Creating an ERD, Table Schema, and Loading the Data
 
 An ERD was created showcasing all five tables and their respective columns. A backers table, with its primary and foreign keys, was also included, based on the summary information about the backers.csv dataset. 
@@ -78,3 +80,5 @@ In order to send an email to each contact of every live campaign to inform them 
 In order to send an email to each backer to let them know how much of the goal remains for each live campaign that they’ve pledged, the following table was created:
 
 ![Deliverable 4](https://github.com/doliver231/Crowdfunding-ETL/blob/main/Images/Deliverable4_backergoals.png)
+
+To see the query coding used on PostgreSQL for Deliverables 3 & 4: [Crowdfunding_Schema.sql](https://github.com/doliver231/Crowdfunding-ETL/blob/main/crowdfunding_db_schema.sql), [Crowdfunding_SQL_Analysis.sql](https://github.com/doliver231/Crowdfunding-ETL/blob/main/crowdfunding_SQL_Analysis.sql)
