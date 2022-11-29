@@ -66,7 +66,7 @@ FROM backers as ba
 JOIN campaign AS ca
 ON (ba.cf_id = ca.cf_id)
 WHERE ca.outcome = 'live'
-ORDER BY ba.last_name ASC;
+ORDER BY ba.last_name ASC, ba.email ASC;
 
 -- Check the table
 SELECT * FROM email_backers_remaining_goal_amount;
